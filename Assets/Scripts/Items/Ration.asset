@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6cc673d3fa5d4f4c8bf68637d1cc459, type: 3}
+  m_Name: Ration
+  m_EditorClassIdentifier: 
+  _itemType: 
+  _sprite: {fileID: 21300000, guid: e7d0f7b0d5b699846ae535d4e5db9a32, type: 3}
+  _shape:
+    _width: 1
+    _height: 1
+    _shape: 01
+  _consumable: 1
+  _useable: 1
+  _healthEffect: 1
+  _healthAmount: 10
+  _psiEffect: 0
+  _psiAmount: 0
+  _radiationEffect: 0
+  _radiationAmount: 0
+  _sayOnUse: You eat the portable ration. High in nutrients and designed to last,
+    but doesn't taste very good.
+  _soundEffect: {fileID: 8300000, guid: 4fceefa1fbbb8be469d72174843891e9, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6cc673d3fa5d4f4c8bf68637d1cc459, type: 3}
+  m_Name: Energy Drink
+  m_EditorClassIdentifier: 
+  _itemType: 
+  _sprite: {fileID: 21300000, guid: 92048a2b2161f6b4facb472ed10f5c47, type: 3}
+  _shape:
+    _width: 1
+    _height: 2
+    _shape: 0101
+  _consumable: 1
+  _useable: 1
+  _healthEffect: 0
+  _healthAmount: 0
+  _psiEffect: 1
+  _psiAmount: 15
+  _radiationEffect: 0
+  _radiationAmount: 0
+  _sayOnUse: You feel more energized after drinking the entire energy drink can.
+  _soundEffect: {fileID: 8300000, guid: afde8f1fb2f192f48b926c77ee98b815, type: 3}
