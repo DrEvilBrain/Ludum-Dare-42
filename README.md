@@ -2,6 +2,10 @@
 
 An homage to one of my favorite games of all time, S.T.A.L.K.E.R. Shadow of Chernobyl. Built for Ludum Dare 42. The name is inspired by [Neil Thapen's](https://twitter.com/pishtaq) amazing S.T.A.L.K.E.R. demake [S.T.A.C.K.E.R.](https://thapen.itch.io/stacker) and the Shadow of Chernobyl prequel Clear Sky.
 
+[Original Ludum Dare entry post](https://ldjam.com/events/ludum-dare/42/s-t-a-c-k-e-r-clear-bag)
+
+[Playable in browser at itch.io](https://drevilbrain.itch.io/stacker-clear-bag)
+
 ### CREDITS
 
 Inspired by [Neil Thapen's](https://twitter.com/pishtaq) S.T.A.L.K.E.R. demake [S.T.A.C.K.E.R.](https://thapen.itch.io/stacker).
